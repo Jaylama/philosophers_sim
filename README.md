@@ -8,5 +8,8 @@ with the philosopher on either side of them. However, they can only eat with two
 their eating times must be carefully coordinated so they don't try to use the same fork at the same 
 time and become stuck fighting over the fork.
 
+The output can be copied here to visualise the result: 
+https://nafuka11.github.io/philosophers-visualizer/
+
 make all to compile :)
 ./philo to run
